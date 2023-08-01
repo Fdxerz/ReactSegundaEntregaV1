@@ -1,0 +1,120 @@
+[
+  {
+    "id": 1,
+    "name": "Manzana",
+    "price": 12,
+    "imgUrl": "./images/Apple.png"
+  },
+  {
+    "id": 2,
+    "name": "Damasco",
+    "price": 50,
+    "imgUrl": "./images/Apricot.png"
+  },
+  {
+    "id": 3,
+    "name": "Banana",
+    "price": 150,
+    "imgUrl": "./images/Banana.png"
+  },
+  {
+    "id": 4,
+    "name": "Moras",
+    "price": 20,
+    "imgUrl": "./images/Blackberry.png"
+  },
+
+  {
+    "id": 5,
+    "name": "Arándanos",
+    "price": 50,
+    "imgUrl": "./images/Blueberry.png"
+  },
+  {
+    "id": 6,
+    "name": "Cereza",
+    "price": 80,
+    "imgUrl": "./images/Cherry.png"
+  },
+  {
+    "id": 7,
+    "name": "Coco",
+    "price": 100,
+    "imgUrl": "./images/Coconut.png"
+  },
+  {
+    "id": 8,
+    "name": "Grosellas",
+    "price": 75,
+    "imgUrl": "./images/Cranberries.png"
+  },
+  
+
+  {
+    "id": 9,
+    "name": "Uva",
+    "price": 80,
+    "imgUrl": "./images/Grape.png"
+  },
+  {
+    "id": 10,
+    "name": "Mango",
+    "price": 130,
+    "imgUrl": "./images/Mango.png"
+  },
+  {
+    "id": 11,
+    "name": "Melón",
+    "price": 250,
+    "imgUrl": "./images/Melon.png"
+  },
+  {
+    "id": 12,
+    "name": "Naranja",
+    "price": 100,
+    "imgUrl": "./images/Orange.png"
+  },
+
+  {
+    "id": 13,
+    "name": "Durazno",
+    "price": 140,
+    "imgUrl": "./images/Peach.png"
+  },
+  {
+    "id": 14,
+    "name": "Piña",
+    "price": 300,
+    "imgUrl": "./images/Pineapple.png"
+  },
+  {
+    "id": 15,
+    "name": "Granada",
+    "price": 140,
+    "imgUrl": "./images/Pomegranate.png"
+  },
+  {
+    "id": 16,
+    "name": "Frambuesa",
+    "price": 5,
+    "imgUrl": "./images/Salmonberry.png"
+  },
+
+  {
+    "id": 17,
+    "name": "Ciruela",
+    "price": 80,
+    "imgUrl": "./images/Wild_Plum.png"
+  },
+
+  {
+    "id": 17,
+    "name": "Fresa",
+    "price": 120,
+    "imgUrl": "./images/Strawberry.png"
+  }
+
+
+
+
+]
